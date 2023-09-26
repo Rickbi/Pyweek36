@@ -8,7 +8,7 @@ Entry for the [PyWeek 36 Game Jam](https://pyweek.org/e/RicBin36/), the theme of
 You are in space looking into the asteroids for dark matter, high value material, suddenly you are attacked by space ships. Survive and collect the dark matter and buy better ships.
 
 ## Game Play
-[Go to YouTube](https://youtu.be/EZRpdbXrD7M)
+[Go to YouTube](https://youtu.be/TswPtey_JCE)
 
 ![Game Play](screen_shots/ships.gif)
 ![Game Play](screen_shots/gamePlayTie.gif)
