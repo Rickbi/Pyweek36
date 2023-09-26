@@ -37,6 +37,6 @@ You can also [play it in the browser](https://rickbi.github.io/Pyweek36/)
 - When an enemy is destroyed it will span either health, shield or dark matter
 
 ## Assets
-All the assets were made by me, using the Pyxels Image and Sound Editors. Highly inspired by the spaceships of Space Invaders, Star Wars, Star Trek, Futurama and Dune.
+All the assets were made by me, using the Pyxels Image and Sound Editors. Highly inspired by the spaceships of Space Invaders, Star Wars, Star Trek, batman, Futurama and Dune.
 
 ## Thanks for Playing
